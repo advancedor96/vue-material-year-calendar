@@ -22,7 +22,7 @@ export default {
   data () {
     return {
       year: 2019,
-      activeDates: ['2019-01-01', '2019-01-02', '2019-01-03']
+      activeDates: ['2019-01-02', '2019-01-50', '2019-01-51']
     }
   },
   methods: {
